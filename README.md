@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and drwaing
 - 🌱 I’m currently learning C# and english :)
 - 💞️ I’m looking to collaborate with tesla, google, Durov's team
-- 📫 You can chat with me on telegram: https://t.me/AzarovRom
+- 📫 You can chat with me on telegram: https://t.me/qmboc
 
 <!---
 AzarovRoman/AzarovRoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
