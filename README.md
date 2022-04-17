@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzarovRoman
-- 👀 I’m interested in programming and drwaing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C# and english :)
 - 💞️ I’m looking to collaborate with tesla, google, Durov's team
 - 📫 You can chat with me on telegram: https://t.me/qmboc
