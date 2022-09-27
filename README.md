@@ -1,14 +1,14 @@
-<h1 align="center">Привет! Меня зовут <a href="https://t.me/qmboc" target="_blank">Роман</a> 
+<h1 align="center">Hi all! My name is <a href="https://t.me/qmboc" target="_blank">Roma</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C# backend developer 🇷🇺</h3>
 
 ![codewars](https://www.codewars.com/users/AzarovRoman/badges/micro)
 
-<h2 align="left">Языки</h2>
+<h2 align="left">programming languages</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<h2 align="left">Инструменты</h2>
+<h2 align="left">Tools</h2>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -23,33 +23,30 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzarovRoman&theme=solarized_dark)
 ---
 
-<h3 align="center">Серьезное изучение C# началось в ноябре 2021 когда я пошел на курсы.</h3>
+<h3 align="center"Serious study of C# began in November 2021 when I took courses.</h3>
 
--Первый интересный самостоятельный проект - рукописные связные и двусвязные списки: цель - научиться работать с ссылками в C#
+-The first interesting independent project - handwritten linked and doubly linked lists: the goal is to learn how to work with links in C # 
 https://github.com/AzarovRoman/ArrayList/tree/main/ArrayList/LinkList  
 https://github.com/AzarovRoman/ArrayList/tree/main/ArrayList/DoubleLinkedList
 
--Затем было два проекта в разных командах (4 и 6 человек)
-1) Семейны десктопный финансовый трекер(не было базы данных, все данные писались в json и десериализовались при старте программы)
-цель - познакомиться с WPF и работой в команде
+-Then there were two projects in different teams (4 and 6 people)
+1) Family desktop financial tracker (there was no database, all data was written in json and deserialized at the start of the program)
+the goal is to get acquainted with WPF and work in a team 
 https://github.com/AzarovRoman/FinTracker/tree/main
 
-2) Десктопная CRM-система. Впервые использовали БД, общались с ней при помощи Dapper и хранимых процедур
-цель - научиться работать с БД
+2) Desktop CRM system. We used the database for the first time, communicated with it using Dapper and stored procedures, the goal is to learn how to work with the database
 https://github.com/AzarovRoman/CustomerAnalyticSystem/tree/master
 
-На этом базовый трехмесячный курс закончился. Попутно с проектами мы ознакомились с примитивными юнит-тестами и Mock, несколькими паттернами проектирование (и даже применяли их)
+This is the end of the basic three-month course. Along the way with projects, we got acquainted with primitive unit tests and Mock, several design patterns (and even applied them)
 
-<h3 align="center">После пройденного собеседования я попал на углубленный курс Backend-разработки на C#</h3>
+<h3 align="center">After the interview, I got into an in-depth course in Backend development in C#</h3>
 
-На спец курсе мы реализуем два проекта (так же в разных командах). Оба с применением практики разделения ответственности (DAL, BLL, API)
+On a special course, we implement two projects (also in different teams). Both using separation of concerns (DAL, BLL, API) 
 
-1) Бэкенд для сайта школы Софт-скиллов. В проекте впервые используется Entity Framework Core с подходом Code-First, хэширование паролей, знакомство с технологией MiddleWare, DataAnnotation, аутентификация и авторизация пользователей, Dependency-Injection, Extension methods.
-цель - познакомиться с ASP.Net, EF Core, REST и вышеперечисленными технологиями  
+1) Backend for the site of the school of soft-skills. The project is the first to use Entity Framework Core with Code-First approach, password hashing, familiarity with MiddleWare technology, DataAnnotation, user authentication and authorization, Dependency-Injection, Extension methods. goal is to get familiar with ASP.Net, EF Core, REST and the above technologies
 https://github.com/hekkaaa/Bear-goodbye-kolkhoz/tree/main
 
-2) Всей группе был дан проект на микросервисной архитектуре - площадка для торговли валютами. Я с напарником делал репортинг-сервис.
-Основной задачей нашего сервиса являлось хранение и максимально быстрая выдача данных потребителям (другим сервисам, аналитикам), при этом скорость записи данных в БД не важна. Работа с БД осуществлялась при помощи Dapper и хранимых процедур. Данные в бд заполнялись программно (~4 000 000 клиентов, ~10 000 000 счетов и ~20 000 000 транзакций). Высокая скорость выдачи данных достигается за счет оптимизации sql-запросов и использованию некластеризованных индексов в sql.
+2) The whole group was given a project on a microservice architecture - a platform for trading currencies. My partner and I did a reporting service. The main task of our service was to store and provide data to consumers (other services, analysts) as quickly as possible, while the speed of writing data to the database is not important. Working with the database was carried out using Dapper and stored procedures. The data in the database was filled programmatically (~4,000,000 clients, ~10,000,000 accounts and ~20,000,000 transactions). High data output speed is achieved by optimizing sql queries and using non-clustered indexes in sql.
 
-Данные от других сервисов мы получали из очередей RabbitMq, в качестве провайдера использовался MassTransit  
+We received data from other services from RabbitMq queues, MassTransit was used as a provider
 https://github.com/NikPletnev/MarvelousReportMicroService
