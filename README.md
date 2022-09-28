@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C# backend developer</h3>
 
-I completed programming courses as a c#-backend developer
-I love writing code and working in a team!
+<p>I completed programming courses as a c#-backend developer</p>
+<p>I love writing code and working in a team!</p>
 Connect with me: <a href="https://www.linkedin.com/in/roman-azarov-b755751b5/" target="_blank">linkedin</a> \ <a href="https://t.me/qmboc" target="_blank">telegram</a> 
 
 <h2 align="left">programming languages</h2>
